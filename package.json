@@ -29,7 +29,8 @@
     "autoprefixer-core": "~6.0.1",
     "csswring": "~4.1.1",
     "postcss-nested": "~1.0.0",
-    "postcss": "~5.0.13"
+    "postcss": "~5.0.13",
+    "scss-lint": "0.0.0"
   },
   "scripts": {
     "start": "gulp",
